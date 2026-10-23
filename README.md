@@ -5,6 +5,7 @@ Documented cloud security investigations, built in a live Azure tenant
 
 Target role: SOC Analyst / Security Analyst
 Currently: Tier 2 Service Desk Analyst | Sacramento, CA
+
 Contact: samthecyberguy@protonmail.com · https://www.linkedin.com/in/samuel-aaron-webster
 
 ## Investigations
