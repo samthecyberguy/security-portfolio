@@ -1,5 +1,4 @@
-# [Title, outcome-flavored: "Investigating an Identity Attack in Entra ID"]
- Investigating an Unauthorized Provisioning in an Azure Cloud Subscription
+#  Investigating an Unauthorized Provisioning in an Azure Cloud Subscription
 
 ## Scenario - 2 to 3 sentences. What was the situation and what question did the investigation answer? Frame it like a work ticket, not homework.
 A user was given temporary contributor access to a cloud subscription. They deployed a test enviornment and didn't follow the organization's governance standards thus creating a resource with unauthorized naming conventions. My role, as the Azure on call engineer, is to investigate how this happened and how to prevent this from happening in the future.
